@@ -29,4 +29,5 @@ It creates the output for each bit in the adder where as the AND gate creates th
 
 
 ### 3 - What is the largest number a two bit adder can handle? What happens when you go over?
-Three is the largest number it can handle because two bits can only represent Zero to Three. Going over would create a carry out of 1.
+Three is the largest number it can handle because two bits can only represent Zero to Three. 
+Going over would create a carry out of 1 plus the output (11 + 11 = 1 carry out and 10 output therefore 6 would only show the 2).
